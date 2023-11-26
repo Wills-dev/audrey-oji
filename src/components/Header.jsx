@@ -3,7 +3,7 @@ const Header = () => {
     <div className=" w-full pt-40 max-sm:pt-32 flex justify-center items-center flex-col gap-6 padding-x relative">
       <div className="flex flex-col relative justify-center items-center">
         <div className="flex items-center gap-2 mt-16 max-sm:mt-5">
-          <h1 className="text-[98px] max-lg:text-[55px] max-md:text-[33px]  text-[#000113] font-clash-medium text-center">
+          <h1 className="text-[98px] max-lg:text-[55px] max-md:text-[30px]  text-[#000113] font-clash-medium text-center">
             AUDREY OJI
           </h1>
           <img
@@ -12,7 +12,7 @@ const Header = () => {
             className="max-md:w-[45px] max-md:h-[48px]"
           />
         </div>
-        <h2 className="text-[#1A23FF] text-[108px] font-clash-bold uppercase left-4  max-lg:text-[64px] max-md:text-[45px] max-sm:text-[34px] text-center">
+        <h2 className="text-[#1A23FF] text-[108px] font-clash-bold uppercase left-4  max-lg:text-[64px] max-md:text-[45px] max-sm:text-[30px] text-center">
           Product Designer{" "}
         </h2>
         <div className="absolute left-0 top-14">
