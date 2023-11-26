@@ -1,5 +1,6 @@
 import "./App.css";
 import AboutMe from "./components/AboutMe";
+import ContactMe from "./components/ContactMe";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
@@ -50,6 +51,25 @@ function App() {
         />
       </div>
       <AboutMe />
+      <div
+        className="w-full relative flex justify-center items-center pt-20 "
+        id="contact-me"
+      >
+        <img
+          src="/assets/images/Group12.svg"
+          alt=""
+          className="max-w-[871px] max-lg:max-w-[500px] max-md:max-w-[350px] max-sm:max-w-[200px]"
+        />
+      </div>
+      <ContactMe />
+      <Navbar />
+      <div className="absolute bottom-28 right-0">
+        <img
+          src="/assets/images/Circle1.svg"
+          alt=""
+          className="block max-md:hidden"
+        />
+      </div>
     </main>
   );
 }
