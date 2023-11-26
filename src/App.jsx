@@ -1,4 +1,5 @@
 import "./App.css";
+import AboutMe from "./components/AboutMe";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
@@ -38,6 +39,17 @@ function App() {
         </div>
       </div>
       <Projects />
+      <div
+        className="w-full relative flex justify-center items-center pt-20 "
+        id="about-me"
+      >
+        <img
+          src="/assets/images/Group131.svg"
+          alt=""
+          className="max-w-[871px] max-lg:max-w-[500px] max-md:max-w-[350px] max-sm:max-w-[200px]"
+        />
+      </div>
+      <AboutMe />
     </main>
   );
 }
