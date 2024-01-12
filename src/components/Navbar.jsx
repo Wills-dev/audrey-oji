@@ -11,13 +11,25 @@ const Navbar = () => {
           audrey oji
         </h2>
         <div className="flex items-center gap-3 max-md:hidden">
-          <a href="/">
+          <a
+            href="https://www.linkedin.com/in/audrey-oluchi-oji-5b9902233"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src="/assets/images/Group23.svg" alt="" />
           </a>
-          <a href="/">
+          <a
+            href="https://www.behance.net/audreyoluchioji"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src="/assets/images/Group26.svg" alt="" />
           </a>
-          <a href="/">
+          <a
+            href="https://www.dribbble.com/AudreyOluchiOji"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src="/assets/images/Group27.svg" alt="" />
           </a>
         </div>
@@ -45,35 +57,55 @@ const Navbar = () => {
         </a>
       </div>
       <div className="flex items-center gap-3 md:hidden">
-        <a href="/">
+        <a
+          href="https://www.linkedin.com/in/audrey-oluchi-oji-5b9902233"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <img
             src="/assets/images/Group23.svg"
             alt=""
             className="w-[16px] max-w-[16px] h-[16px] max-h-[16px]"
           />
         </a>
-        <a href="/">
+        <a
+          href="https://twitter.com/Audreyoluchioji"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <img
             src="/assets/images/Group24.svg"
             alt=""
             className="w-[16px] max-w-[16px] h-[16px] max-h-[16px]"
           />
         </a>
-        <a href="/">
+        <a
+          href="https://www.instagram.com/goddessofdesign__?igsh=a2w0enEyOGltMHh6"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <img
             src="/assets/images/Group25.svg"
             alt=""
             className="w-[16px] max-w-[16px] h-[16px] max-h-[16px]"
           />
         </a>
-        <a href="/">
+        <a
+          href="https://www.behance.net/audreyoluchioji"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <img
             src="/assets/images/Group26.svg"
             alt=""
             className="w-[16px] max-w-[16px] h-[16px] max-h-[16px]"
           />
         </a>
-        <a href="/">
+        <a
+          href="https://www.dribbble.com/AudreyOluchiOji"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <img
             src="/assets/images/Group27.svg"
             alt=""

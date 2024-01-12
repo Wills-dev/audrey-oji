@@ -40,7 +40,9 @@ const AboutMe = () => {
         </div>
         <div className="ml-10  max-sm:ml-4 mt-10">
           <a
-            href=""
+            href="https://drive.google.com/file/d/1KXYxH2YAz98Taxr1ySeiRQ-1jIc3oDAk/view?usp=drivesdk"
+            target="_blank"
+            rel="noopener noreferrer"
             className="flex items-center bg-[#1A23FF] hover:bg-blue-600 text-white w-[254px] whitespace-nowrap justify-center h-[56px] font-clash-bold text-center "
           >
             Download My Resume{" "}

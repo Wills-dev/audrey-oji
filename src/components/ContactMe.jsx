@@ -11,13 +11,25 @@ const ContactMe = () => {
             Connect with me:
           </h4>
           <div className="flex items-center gap-3 ">
-            <a href="/">
+            <a
+              href="https://www.linkedin.com/in/audrey-oluchi-oji-5b9902233"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <img src="/assets/images/Group23.svg" alt="" />
             </a>
-            <a href="/">
+            <a
+              href="https://www.behance.net/audreyoluchioji"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <img src="/assets/images/Group26.svg" alt="" />
             </a>
-            <a href="/">
+            <a
+              href="https://www.dribbble.com/AudreyOluchiOji"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <img src="/assets/images/Group27.svg" alt="" />
             </a>
           </div>
